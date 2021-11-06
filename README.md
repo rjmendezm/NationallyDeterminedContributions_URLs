@@ -6,7 +6,7 @@ URLs to pdf documents with National Governments' decarbonization target and stra
 * Concha Román Santos
 * 
 **Files**
- * Database: *NDC_URL_October2021.csv*
+ * Database: *NDC_URL_05112021.csv*
  * Scraper: *NDC_Registry_Scraper.py*
  * Justification & Description: *respuestas_practica1.pdf*
 
