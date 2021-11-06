@@ -12,4 +12,9 @@ URLs to pdf documents with National Governments' decarbonization target and stra
 
 DATASET DOI: https://www.doi.org/10.5281/zenodo.5650721
 
+Notes:
+(a) All country members of the European Union publish and a single join NDC and updates of it, that is why they do not appear individually in the data base.
+(b) UK presents its own NDC from 2020 onwards, before the adopted the join NDC of the European Union's members referred in note (a).
+
+
 LICENSE: Database released under [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/), individual contents under [Database Contents Licence]( http://opendatacommons.org/licenses/dbcl/1.0/)
