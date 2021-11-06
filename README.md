@@ -1,5 +1,5 @@
 # NationallyDeterminedContributions_URLs
-Database with URLs to pdf documents with the *Nationally Determined Contributions (NDCs)*: the National Governments' decarbonization target and strategy as submitted to the [(Interim)NDC_Registry](https://www4.unfccc.int/sites/NDCStaging/Pages/All.aspx) for complying with the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)'s Article 4, paragraph 12.  **It was created in Python by Web Scraping the NDC_Registry as shown in the attached Jupyter Notebook**.
+Database with URLs to pdf documents with the *Nationally Determined Contributions (NDCs)*: the National Governments' decarbonization target and strategy as submitted to the [NDC_Registry](https://www4.unfccc.int/sites/NDCStaging/Pages/All.aspx) for complying with the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)'s Article 4, paragraph 12.  **It was created in Python by Web Scraping the NDC_Registry as shown in the attached Jupyter Notebook**.
 
 Notes:
 1. All country members of the European Union publish a single join NDC and updates of it, that is why they do not appear individually in the database.
