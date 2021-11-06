@@ -11,10 +11,10 @@ Notes:
 * Concha Román Santos
 * 
 **Files**
- * Database: *NDC_URL_05112021.csv*
+ * Database: *NDC_URL_05112021.csv*,*NDC_URL_05112021.xls* 
  * Scraper: *NDC_Registry_Scraper.py*
  * Justification & Description: *respuestas_practica1.pdf*
 
-DATASET DOI: https://www.doi.org/10.5281/zenodo.5650721
+DATABASE DOI: https://www.doi.org/10.5281/zenodo.5650721
 
 LICENSE: Database released under [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/), individual contents under [Database Contents Licence]( http://opendatacommons.org/licenses/dbcl/1.0/)
